@@ -99,13 +99,4 @@ Logs show no critical errors.
 
 ---
 
-## If This Worsens (Next Steps)
 
-1. Restart SSH service safely  
-   Command: sudo systemctl restart ssh
-
-2. Increase SSH log verbosity  
-   Action: Set LogLevel VERBOSE in /etc/ssh/sshd_config
-
-3. Monitor real-time system usage  
-   Command: top
