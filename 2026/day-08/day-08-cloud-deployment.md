@@ -112,12 +112,13 @@ http://your-public-ip
 
 My deployed website running on EC2 with Nginx:
 
-(Add your screenshot image here in GitHub repo)
 
 Example:
+![Website Screenshot](screenshot.png)
 
 ```markdown
-![Website Screenshot](Screenshot 2026-02-19 171539.png)
+
+
 
 ```
 
