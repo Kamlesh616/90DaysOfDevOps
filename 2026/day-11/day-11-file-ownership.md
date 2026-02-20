@@ -1,7 +1,5 @@
 # 📘 Day 11 – Linux Ownership & Group Management
 
-## 📅 Date
-20 Feb 2026  
 
 ## 🎯 Objective
 To practice Linux file ownership, group management, and permission control using chown, chgrp, and recursive operations.
